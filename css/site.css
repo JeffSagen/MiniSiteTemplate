@@ -70,3 +70,8 @@ white-space: pre-wrap;
 word-break: break-all;
 word-wrap: break-word;
 }
+
+.vl {
+    border-left: 6px solid --dark-color;
+    height: 500px;
+  }
